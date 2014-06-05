@@ -1,0 +1,21 @@
+{
+  "name": "has-translate3d",
+  "repo": "techtop/has-translate3d",
+  "description": "Feature detection of css translate3d",
+  "version": "0.0.3",
+  "dependencies": {
+    "transform-property": "component/transform-property"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
